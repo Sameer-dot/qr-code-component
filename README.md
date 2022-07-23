@@ -21,7 +21,7 @@ A very simple challenge on Frontend Mentor. The challenge is to make a simple QR
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Sameer-dot/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://sameerdot-qrcode.netlify.app/)
 
 ### Built with
 
